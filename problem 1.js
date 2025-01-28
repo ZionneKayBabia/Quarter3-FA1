@@ -8,3 +8,4 @@ var heightInches= parseInt(height)%12;
 var weight= parseInt(weight)*2.205;
 
 alert("Name: " + nickname + "\n" + "Height: " + heightFeet+ "'"+heightInches+"''"+ "\n"+ "Weight: " +weight+" lbs")
+
